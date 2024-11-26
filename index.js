@@ -31,6 +31,6 @@ for(var i=0 ; i<=array.length-1;i++){
 console.log("----------------------------------------");
 
 var arr=['apple', 'banana', 'cherry'] 
-console.log(`index ${arr.indexOf('apple')} : apple`);
-console.log(`index ${arr.indexOf('banana')} : banana`);
-console.log(`index ${arr.indexOf('cherry')} : cherry`);
+for(var i=0;i<=arr.length-1;i++){
+console.log(`index ${i} : ${arr[i]}`)
+}
