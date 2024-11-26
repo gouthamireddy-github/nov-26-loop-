@@ -32,5 +32,5 @@ console.log("----------------------------------------");
 
 var arr=['apple', 'banana', 'cherry'] 
 console.log(`index ${arr.indexOf('apple')} : apple`);
-console.log(`index ${arr.indexOf('apple')} : banana`);
+console.log(`index ${arr.indexOf('banana')} : banana`);
 console.log(`index ${arr.indexOf('cherry')} : cherry`);
